@@ -4,7 +4,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
-import { SimpleFormComponent } from './app.simpleform';
+import { SimpleFormComponent } from './simpleform/simpleform.component';
 import { ComplexFormComponent } from './app.complexform';
 import { FormValidationComponent } from './app.formvalidations';
 
