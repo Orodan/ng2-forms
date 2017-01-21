@@ -5,7 +5,7 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 import { SimpleFormComponent } from './simpleform/simpleform.component';
-import { ComplexFormComponent } from './app.complexform';
+import { ComplexFormComponent } from './complexform/complexform.component';
 import { FormValidationComponent } from './app.formvalidations';
 
 @NgModule({
